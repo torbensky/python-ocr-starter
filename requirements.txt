@@ -1,0 +1,6 @@
+numpy
+opencv-python
+imutils
+scikit-image
+pillow
+pytesseract
